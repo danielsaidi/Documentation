@@ -30,7 +30,7 @@ Below is a list of downloadable documentations for my various projects:
 * LicenseKit - TBD
 * MockingKit - TBD
 * Sheeeeeeeeet - TBD
-* SwiftKit - TBD
+* [SwiftKit](https://github.com/danielsaidi/Documentation/blob/main/Docs/SwiftKit.doccarchive.zip?raw=true)
 * [SwiftUIKit](https://github.com/danielsaidi/Documentation/blob/main/Docs/SwiftUIKit.doccarchive.zip?raw=true)
 * SystemNotification - TBD
 
