@@ -26,12 +26,12 @@ Below is a list of downloadable documentations for my various projects:
 * DeckKit - TBD
 * GoogleTranslateSwift - TBD
 * [KeyboardKit](https://github.com/danielsaidi/Documentation/blob/main/Docs/KeyboardKit.doccarchive.zip?raw=true)
-* KeyboardKit Pro - TBD
+* [KeyboardKit Pro](https://github.com/danielsaidi/Documentation/blob/main/Docs/KeyboardKitPro.doccarchive.zip?raw=true)
 * LicenseKit - TBD
 * MockingKit - TBD
 * Sheeeeeeeeet - TBD
 * SwiftKit - TBD
-* SwiftUIKit - TBD
+* [SwiftUIKit](https://github.com/danielsaidi/Documentation/blob/main/Docs/SwiftUIKit.doccarchive.zip?raw=true)
 * SystemNotification - TBD
 
 I will update this list as I add documentation for each project.
