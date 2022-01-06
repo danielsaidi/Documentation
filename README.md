@@ -20,7 +20,7 @@ I will fill in this list as I add documentation for each project:
 * BottomSheet - TBD
 * DeckKit - TBD
 * GoogleTranslateSwift - TBD
-* KeyboardKit - TBD
+* [KeyboardKit](https://github.com/danielsaidi/Documentation/blob/main/Docs/KeyboardKit.doccarchive.zip?raw=true)
 * KeyboardKit Pro - TBD
 * LicenseKit - TBD
 * MockingKit - TBD
