@@ -13,9 +13,14 @@ I first tried [Git Large File Storage](https://git-lfs.github.com), but Xcode fa
 Each documentation file is a downloadable zip file that contains a documentation archive. Just download and unzip any documentation file, then open the unzipped `.doccarchive` in Xcode.
 
 
-## Documentations
+## Versioning
 
-I will fill in this list as I add documentation for each project:
+This repository has a tag for each library documentation version. To download older documentation versions, just checkout a certain tag and grab the zip file you want.
+
+
+## Projects
+
+Below is a list of downloadable documentations for my various projects:
 
 * BottomSheet - TBD
 * DeckKit - TBD
@@ -28,3 +33,5 @@ I will fill in this list as I add documentation for each project:
 * SwiftKit - TBD
 * SwiftUIKit - TBD
 * SystemNotification - TBD
+
+I will update this list as I add documentation for each project.
